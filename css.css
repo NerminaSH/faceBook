@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background :url(eye-1553789.jpg); 
+    background-size: cover;
+    color: rgb(3, 1, 17)
+    
+        
+}
+.clear {
+    clear: both;
+}
+.header{
+    
+    height: 85px;
+}
+.cont{
+    width:72%;
+    margin: 0 auto;
+    background-color:
+    
+}
+.cont .logo{
+    width: 50%;
+    float: left;
+    color: rgb(6, 2, 61)
+}
+.cont .login{
+    width: 45%;
+    float: left;
+    color: white
+    
+}
+.cont .logo h1 {
+    font-size: 40px;
+    padding-left: 15px;  
+}
+.cont .login .email{
+    float: left;
+    width:41%;
+    padding-top: 25px 
+}
+input[type='text'],input[type='password'] {
+    margin-top: 5px;
+}
+.cont .login .pass {
+    float: left;
+    padding-top: 25px 
+}
+input[type='submit']{
+    margin-top: 48px;
+    margin-left: 10px;
+    background-color: #02142d;
+    color: white;
+    border: none;
+    padding: 2px 5px;
+    font-weight: bold;
+}
+input[type='submit']:hover{
+        background-color: #030335;
+}
+.content {
+    color: white;
+    float: left;
+    width: 50%;
+    font-size: 17px;
+}
+.content h3 {
+    line-height: 1.5
+}
+hr {
+    width: 100%;
+    margin: 0px
+    
+}
+.signup h1 , .signup h4 {
+    color:rgb(5, 5, 103);
+    margin: 5px;
+}
+.signup {
+    float: left;
+    width: 46%;
+    
+    
+}
+.signup input {
+    padding: 5px;
+    margin: 7px;
+    font-size: 15px;
+
+}
+.signup .em1 {
+    width: 92%;
+}
+.signup .pas1 {
+    width: 92%
+
+}
+
+.day{
+    float: right;
+    width: 40%;
+}
+select {
+    width: 80px;
+    font-size: 15px;
+    padding-left: 6px;
+    margin-left: 40px;
+    border: none;
+     border-radius:15px;
+    
+}
+.signup h3{
+    text-align: center;
+    font-family:sans-serif
+}
+.main {
+    text-align: center;
+    margin-right: 35px;
+    padding:20px;
+    margin: 2px
+}
+.bir {
+    text-align: center;
+}
+.an {
+    background-color:#0a010669;
+    color: white;
+    width: 200px;
+}
+.main {
+    text-align: center;
+    margin-right: 35px;
+    padding:20px;
+    margin: 2px
+}
+.bir {
+    text-align: center;
+}
+.an {
+    background-color:#2f2d2e69;
+   
+    width: 250px;
+}
+.foot {
+    margin-left: -250px; 
+    float: inherit;
+    padding:49px;
+    
+    
+    
+
+        
+}
+.signup input {
+    border-radius:15px; 
+    
+}
+.main [type="button"]:hover {
+    background:rgb(60, 3, 3) ;
+}
+.email [type="email"]{
+    margin:5px;
+    width: 160px
+}
